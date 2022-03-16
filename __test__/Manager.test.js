@@ -7,9 +7,8 @@ test("Can set office number via constructor argument", () => {
 });
 
 test("getRole() should return \"Manager\"", () => {
-  const testValue = "Manager";
   const e = new Manager("Jo", 1, "test@test.com", 100);
-  expect(e.getRole()).toBe(testValue);
+  expect(e.getRole()).toBe("Manager");
 });
 
 test("Can get office number via getOffice()", () => {

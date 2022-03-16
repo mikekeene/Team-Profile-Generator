@@ -14,7 +14,7 @@ test('Can get name via getName()', () => {
 
 test('can get id via getID()', () => {
     const e = new Employee('Mike', 67, 'mikey@gmail.com');
-    expect(e.getID()).toEqual(67);
+    expect(e.getId()).toEqual(67);
 });
 
 test('can get email via getEmail()', () => {

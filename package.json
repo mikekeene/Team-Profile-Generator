@@ -4,8 +4,7 @@
   "description": "Unit 10 homework",
   "main": "app.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
     "test": "jest"
@@ -23,5 +22,6 @@
   "dependencies": {
     "inquirer": "^7.0.0",
     "jest": "^24.9.0"
-  }
+  },
+  "devDependencies": {}
 }

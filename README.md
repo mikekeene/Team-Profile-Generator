@@ -4,6 +4,8 @@ The assignment is to build a command-line application that uses Node.js and Inqu
 ## Table of Contents 
 * [Installation](#Installation)
 * [License](#License)
+* [Usage](#Usage)
+* [Testing](#Testing)
 * [Questions](#Questions)
 ## Installation
 * Clone repository
